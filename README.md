@@ -136,3 +136,7 @@ h1 {
 	padding: 6px;
 }
 ```
+#### To run this application 
+```sh
+gulp
+```
